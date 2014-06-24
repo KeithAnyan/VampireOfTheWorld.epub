@@ -28,6 +28,16 @@ li {
 	margin-bottom: 0.5em;
 }
 
+.caption {
+	text-align: center;
+	clear: both;
+	max-width: 100%;
+}
+
+.caption > img {
+	max-width: 90%;
+}
+
 @font-face {
     font-family: 'Philosopher';
     font-weight: normal;
