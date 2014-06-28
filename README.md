@@ -1,6 +1,6 @@
 # America: Vampire of the World
 
-A pair of essays by [Mencius Moldbug](unqualified-reservations.blogspot.com/)
+A pair of essays by [Mencius Moldbug](http://unqualified-reservations.blogspot.com/)
 
 Original Articles:
 [part 1](http://unqualified-reservations.blogspot.com/2008/08/america-vampire-of-world-part-1.html)
