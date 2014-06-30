@@ -8,9 +8,9 @@ and
 [part 2](http://unqualified-reservations.blogspot.com/2008/09/america-vampire-of-world-part-2.html)
 
 Download:
-[epub](http://jbboehr.github.io/VampireOfTheWorld.epub/VampireOfTheWorld.epub)
-[mobi](http://jbboehr.github.io/VampireOfTheWorld.epub/VampireOfTheWorld.mobi)
-[pdf](http://jbboehr.github.io/VampireOfTheWorld.epub/VampireOfTheWorld.pdf)
+[epub](http://keithanyan.github.io/VampireOfTheWorld.epub/VampireOfTheWorld.epub)
+[mobi](http://keithanyan.github.io/VampireOfTheWorld.epub/VampireOfTheWorld.mobi)
+[pdf](http://keithanyan.github.io/VampireOfTheWorld.epub/VampireOfTheWorld.pdf)
 
 
 ## License
